@@ -4,7 +4,7 @@ will change like in summer the scenario will be sunny and birds will fly in the 
 
 The program is made with Codeblocks in Windows 10 and to execute the program OpneGl and glut should be installed properly and 
 configured with CodeBlocks.
-After installing glut in Windows, open 3D car Racing Game in Code Blocks.
+After installing glut in Windows, open Transformation in Code Blocks.
 Build and then run the solution.
 Transformation.cpp is the main source C++ file.
     
