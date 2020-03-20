@@ -13,5 +13,7 @@ This are the Controls:
 "n" night Mode.
 "r" rain Mode.
 
-![Image of Project]
-(https://drive.google.com/drive/u/0/my-drive "Day View")
+![Image of Project](https://raw.githubusercontent.com/nozibuddowla/Transformation/master/Readme/Screenshot%20(86).png "Day View")
+![Image of Project](https://raw.githubusercontent.com/nozibuddowla/Transformation/master/Readme/Screenshot-(87).jpg "Night View")
+![Image of Project](https://raw.githubusercontent.com/nozibuddowla/Transformation/master/Readme/Screenshot-(88).jpg "Rainy Night View")
+![Image of Project](https://raw.githubusercontent.com/nozibuddowla/Transformation/master/Readme/Screenshot-(89).jpg "Rainy Day View")
